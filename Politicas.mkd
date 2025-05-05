@@ -1,0 +1,137 @@
+# Política de Privacidad de Tale
+
+**Fecha de Entrada en Vigor:** 5 de Mayo de 2025
+
+## 1. Introducción
+
+Bienvenido/a a Tale, la aplicación diseñada para ayudarte a descubrir y comprar entradas para eventos. Esta Política de Privacidad explica cómo **TALE SAS**, con domicilio en Av. Ing. Ponce 1326, Montevideo, Uruguay ("nosotros", "nos" o "nuestro"), recopila, utiliza, comparte y protege tu información personal cuando utilizas nuestra aplicación móvil Tale (la "Aplicación") y los servicios relacionados (colectivamente, los "Servicios").
+
+Nos comprometemos a proteger tu privacidad y a manejar tu información personal de manera transparente y segura, en cumplimiento con las Directrices de Revisión de la App Store de Apple y la legislación aplicable, incluyendo la Ley N° 18.331 de Protección de Datos Personales y Acción de Habeas Data de la República Oriental del Uruguay y sus decretos reglamentarios.
+
+Al utilizar nuestros Servicios, aceptas las prácticas descritas en esta Política de Privacidad. Te recomendamos leerla detenidamente.
+
+## 2. Responsable del Tratamiento
+
+El responsable del tratamiento de tus datos personales es **TALE SAS**, con domicilio en Av. Ing. Ponce 1326, Montevideo, Uruguay. Nuestras bases de datos se encuentran debidamente inscritas ante la Unidad Reguladora y de Control de Datos Personales (URCDP) de Uruguay.
+
+## 3. Qué Información Personal Recopilamos
+
+Recopilamos diferentes tipos de información personal para proporcionarte y mejorar nuestros Servicios. Esta información incluye:
+
+* **Información de Contacto:** Nombre, dirección de correo electrónico, número de teléfono (si decides proporcionarlo para la creación de cuenta o soporte).
+* **Identificadores:** Un ID de usuario único asignado a tu cuenta de Tale, identificadores de dispositivo (como el ID del dispositivo).
+* **Información de Cuenta:** Credenciales de inicio de sesión (nombre de usuario/email y contraseña hasheada, o identificador de inicio de sesión de terceros como "Sign in with Apple" y Google Sign-In, si utilizas esas opciones).
+* **Ubicación:**
+    * *Ubicación Precisa:* Con tu permiso explícito, podemos recopilar la ubicación precise de tu dispositivo (GPS) para mostrarte eventos cercanos. Solo la recopilamos cuando utilizas activamente esta función.
+    * *Ubicación Aproximada:* Podemos derivar una ubicación aproximada (por ejemplo, a nivel de ciudad) de tu dirección IP o si eliges proporcionar solo ubicación aproximada a través de los ajustes del sistema operativo.
+* **Información de Compras:** Historial de entradas compradas a través de la Aplicación, detalles de la transacción (excluyendo información completa de la tarjeta de pago, ver sección 6).
+* **Contenido del Usuario:** Preferencias de eventos que indiques (tipos de eventos, artistas, lugares), listas de eventos guardados.
+* **Datos de Uso:** Información sobre cómo interactúas con la Aplicación, como lanzamientos de la app, toques, clics, desplazamientos, búsquedas realizadas, eventos vistos, funciones utilizadas, interacciones con notificaciones.
+* **Datos de Diagnóstico:** Información sobre el rendimiento de la Aplicación, como datos de fallos (crash logs), tiempos de carga, consumo de energía y otros datos técnicos para identificar y solucionar problemas.
+* **Información Financiera:** Cuando realizas una compra, la información de pago es procesada por nuestro proveedor de servicios de pago externo **Dlocal Go**. Nosotros no almacenamos ni tenemos acceso completo a los detalles de tu tarjeta de crédito/débito. Recibimos información limitada sobre la transacción necesaria para confirmar el pago y procesar tu pedido de entradas.
+* **Comunicaciones:** Registros de tus comunicaciones con nuestro equipo de soporte.
+
+## 4. Cómo Recopilamos tu Información
+
+Recopilamos información personal de las siguientes maneras:
+
+* **Directamente de Ti:** Cuando creas una cuenta, actualizas tu perfil, realizas una compra, indicas tus preferencias, contactas con soporte o interactúas de otra manera con la Aplicación proporcionando información voluntariamente.
+* **Automáticamente:** Cuando utilizas la Aplicación, recopilamos automáticamente ciertos datos de uso y diagnóstico a través de tecnologías estándar. La recopilación de datos de ubicación requiere tu permiso explícito a través de los servicios de ubicación de tu dispositivo.
+* **De Terceros:** Si eliges iniciar sesión utilizando un servicio de terceros (como "Sign in with Apple", Google Sign-In), recibiremos cierta información de perfil (generalmente nombre y correo electrónico) de ese servicio, de acuerdo con tus ajustes de privacidad en dicha plataforma y tu consentimiento.
+
+## 5. Cómo y Por Qué Utilizamos tu Información (Finalidades y Base Legal)
+
+Utilizamos tu información personal para diversas finalidades, siempre basadas en una justificación legal (base legal), especialmente relevante para usuarios en Uruguay bajo la Ley 18.331.
+
+| Categoría de Datos                               | Finalidad(es) del Tratamiento                                                                                                                                                                               | Base Legal (Principal, Uruguay)                                                                       |
+| :----------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------- |
+| Información de Contacto, Identificadores, Info. Cuenta | - Crear y gestionar tu cuenta de usuario. <br> - Autenticar tu inicio de sesión. <br> - Comunicarnos contigo sobre tu cuenta, transacciones y soporte. <br> - Enviar comunicaciones de marketing (con tu consentimiento opcional). | Consentimiento (Art. 9); Necesidad Contractual (Art. 9.D) para gestión de cuenta y transacciones. |
+| Ubicación (Precisa/Aproximada)                   | - Mostrarte eventos cercanos a tu ubicación actual. <br> - Personalizar recomendaciones de eventos basadas en la ubicación.                                                                                     | Consentimiento (Art. 9) - Explícito para ubicación precisa.                                             |
+| Información de Compras                           | - Procesar tus compras de entradas. <br> - Proporcionarte acceso a las entradas adquiridas. <br> - Gestionar reembolsos según las políticas del evento. <br> - Cumplir con obligaciones legales y financieras. | Necesidad Contractual (Art. 9.D); Obligación Legal.                                                     |
+| Contenido del Usuario (Preferencias, etc.)         | - Personalizar tu experiencia en la App, recomendando eventos relevantes. <br> - Permitirte guardar eventos de interés.                                                                                      | Consentimiento (Art. 9).                                                                                |
+| Datos de Uso, Datos de Diagnóstico                 | - Analizar cómo se utiliza la Aplicación para mejorar su funcionalidad, rendimiento y experiencia de usuario. <br> - Identificar y solucionar errores técnicos y fallos. <br> - Prevenir fraudes y abusos.         | Interés Legítimo (para mejora y seguridad); Consentimiento (Art. 9) si se considera necesario.      |
+| Información Financiera (limitada)              | - Confirmar pagos y completar transacciones de entradas.                                                                                                                                                    | Necesidad Contractual (Art. 9.D).                                                                       |
+| Comunicaciones                                   | - Responder a tus solicitudes de soporte. <br> - Proporcionar información importante sobre los Servicios.                                                                                                     | Necesidad Contractual (Art. 9.D); Consentimiento (Art. 9) para marketing.                               |
+
+**Consentimiento para Datos Sensibles (Uruguay):** Dado que las preferencias de eventos recopiladas no se relacionan directamente con categorías consideradas sensibles por la Ley 18.331 (como origen étnico, preferencias políticas, convicciones religiosas/morales), nos basamos en tu consentimiento general (Art. 9) para recopilar y usar dichas preferencias con el fin de personalizar tu experiencia. Tienes derecho a no proporcionar esta información o a gestionar tus preferencias.
+
+## 6. Con Quién Compartimos tu Información
+
+No vendemos tu información personal. Solo compartimos tu información con terceros en las siguientes circunstancias limitadas y siempre asegurando que proporcionen una protección de datos igual o equivalente a la nuestra:
+
+* **Organizadores de Eventos:** Compartimos la información necesaria (como tu nombre y confirmación de compra) con los organizadores de los eventos para los que compras entradas, para validar tu asistencia y para que puedan cumplir con sus propias políticas.
+* **Procesadores de Pago:** Utilizamos a **Dlocal Go** para procesar tus compras. Compartimos la información de la transacción necesaria con ellos, pero no almacenamos los detalles completos de tu tarjeta. Dlocal Go procesa tus datos de pago de acuerdo con sus propias políticas de privacidad.
+* **Proveedores de Servicios:** Podemos compartir información con terceros que nos prestan servicios, como proveedores de alojamiento en la nube (**Amazon Web Services (AWS)**) y servicios de envío de correo electrónico. Estos proveedores solo están autorizados a utilizar tu información según sea necesario para prestarnos estos servicios.
+* **Servicios de Inicio de Sesión de Terceros:** Si inicias sesión con un servicio de terceros (Apple, Google), se produce un intercambio de información limitado con ese proveedor según lo autorizado por ti.
+* **Cumplimiento Legal y Seguridad:** Podemos divulgar tu información si creemos de buena fe que es necesario para: (a) cumplir con una obligación legal, citación o solicitud gubernamental; (b) proteger y defender nuestros derechos o propiedad; (c) prevenir o investigar posibles irregularidades en relación con los Servicios; (d) proteger la seguridad personal de los usuarios o del público; o (e) protegernos contra la responsabilidad legal.
+* **Transferencias Comerciales:** En caso de fusión, adquisición, reorganización, quiebra u otra venta de todos o una parte de nuestros activos, tu información puede ser transferida como parte de esa transacción. Te notificaremos de cualquier cambio de propiedad o usos de tu información personal.
+
+## 7. Transparencia en el Seguimiento de Aplicaciones (ATT)
+
+No realizamos "seguimiento" tal como lo define Apple. No vinculamos tus datos de usuario o dispositivo recopilados en nuestra Aplicación con datos de aplicaciones o sitios web de otras empresas para fines de publicidad dirigida o medición publicitaria, ni compartimos tus datos con intermediarios de datos. Por lo tanto, no solicitamos permiso a través del marco de Transparencia en el Seguimiento de Aplicaciones (ATT) de Apple.
+
+## 8. Tus Derechos de Privacidad
+
+Tienes ciertos derechos con respecto a tu información personal. Nos comprometemos a facilitarte el ejercicio de estos derechos:
+
+* **Derecho de Acceso:** Tienes derecho a solicitar acceso a la información personal que tenemos sobre ti.
+* **Derecho de Rectificación:** Tienes derecho a solicitar la corrección de cualquier información personal inexacta o incompleta.
+* **Derecho de Supresión (Eliminación):** Tienes derecho a solicitar la eliminación de tu información personal cuando ya no sea necesaria para los fines para los que fue recopilada, cuando retires tu consentimiento (si esa era la base legal), o en otras circunstancias previstas por la ley. Esto incluye el derecho a solicitar la eliminación de tu cuenta (ver sección 9).
+* **Derecho a Retirar el Consentimiento:** Cuando el tratamiento de tus datos se base en tu consentimiento, tienes derecho a retirarlo en cualquier momento. La retirada del consentimiento no afectará a la legalidad del tratamiento basado en el consentimiento antes de su retirada.
+* **Derecho de Oposición:** En determinadas circunstancias (por ejemplo, si el tratamiento se basa en interés legítimo), tienes derecho a oponerte al tratamiento de tus datos personales.
+* **Derechos Adicionales en Uruguay (Ley 18.331):**
+    * *Derecho de Actualización e Inclusión:* Derecho a que tus datos sean actualizados o a solicitar la inclusión de información si corresponde.
+    * *Derecho a Impugnar Decisiones Automatizadas:* Derecho a no ser objeto de una decisión basada únicamente en el tratamiento automatizado que produzca efectos jurídicos o te afecte significativamente.
+    * *Derecho a la Información:* Derecho a recibir información clara y completa sobre el tratamiento de tus datos (como se detalla en esta política).
+
+* **Cómo Ejercer tus Derechos:** Puedes ejercer la mayoría de estos derechos directamente a través de la configuración de tu cuenta dentro de la Aplicación (por ejemplo, actualizar perfil, gestionar preferencias). Para solicitudes de acceso, supresión completa, retirada de consentimiento específico, oposición u otros derechos, por favor contáctanos utilizando la información proporcionada en la sección "Contacto" (sección 15). Responderemos a tu solicitud en los plazos legalmente establecidos (en Uruguay, el plazo máximo para acceso, rectificación, actualización, inclusión o supresión es de 5 días hábiles desde la recepción de la solicitud). Podremos solicitarte información adicional para verificar tu identidad antes de procesar tu solicitud. El ejercicio de estos derechos es gratuito.
+
+## 9. Eliminación de Cuenta
+
+De acuerdo con las directrices de Apple y las leyes de protección de datos, si has creado una cuenta en Tale, tienes derecho a solicitar su eliminación.
+
+* **Cómo Iniciar la Eliminación:** Puedes iniciar el proceso de eliminación de tu cuenta directamente desde la ruta **Perfil > configuración > configuración avanzada > eliminar** dentro de la Aplicación Tale. La opción será claramente visible y fácil de encontrar.
+* **Qué se Elimina:** Al solicitar la eliminación de tu cuenta, se eliminará permanentemente tu registro de cuenta y toda la información personal asociada que tengamos, incluyendo tu perfil, preferencias de eventos, historial de ubicación, historial de compras, sujeto a cualquier obligación legal que podamos tener de conservar ciertos datos durante un período específico (por ejemplo, para fines fiscales o de auditoría). No se trata de una simple desactivación temporal.
+* **Proceso y Confirmación:** El proceso de eliminación se inicia dentro de la aplicación. Una vez confirmada tu solicitud a través de los pasos de verificación, **la eliminación de tu cuenta y datos asociados se procesará de forma inmediata** en nuestros sistemas principales. Recibirás una confirmación por correo electrónico una vez que la eliminación se haya completado.
+* **Verificación:** Podemos requerir pasos de verificación (ej. código a tu email) para asegurar que la solicitud es legítima y evitar eliminaciones accidentales.
+
+## 10. Seguridad de los Datos
+
+Tomamos medidas de seguridad técnicas y organizativas razonables para proteger tu información personal contra el acceso no autorizado, la alteración, la divulgación o la destrucción. Estas medidas incluyen, entre otras, el cifrado de datos en tránsito y en reposo (cuando es apropiado), controles de acceso estrictos y revisiones periódicas de nuestras prácticas de recopilación, almacenamiento y procesamiento de información. Sin embargo, ningún sistema de transmisión o almacenamiento electrónico es 100% seguro, por lo que no podemos garantizar una seguridad absoluta.
+
+## 11. Retención de Datos
+
+Conservaremos tu información personal solo durante el tiempo necesario para cumplir con las finalidades para las que fue recopilada, tal como se describe en esta Política de Privacidad, a menos que la ley exija o permita un período de retención más largo. Los criterios utilizados para determinar nuestros períodos de retención incluyen:
+
+* La duración de tu relación con nosotros y la provisión de los Servicios (por ejemplo, mientras mantengas tu cuenta activa).
+* La existencia de una obligación legal a la que estemos sujetos (por ejemplo, leyes fiscales o contables en Uruguay).
+* La necesidad de conservar datos para resolver disputas o hacer cumplir nuestros acuerdos.
+
+Cuando tu información personal ya no sea necesaria para estos fines, la eliminaremos o la anonimizaremos de forma segura.
+
+## 12. Transferencias Internacionales de Datos
+
+Nuestros Servicios pueden ser proporcionados utilizando recursos y servidores ubicados en varios países del mundo, incluyendo **Estados Unidos (específicamente en la región North Virginia de AWS)**. Por lo tanto, tu información personal puede ser transferida y procesada en países distintos a Uruguay.
+
+Si transferimos tu información personal fuera de Uruguay, nos aseguraremos de que la transferencia cumpla con la legislación aplicable, garantizando un nivel adecuado de protección de datos. Esto puede lograrse a través de:
+
+* Transferencias a países que la autoridad competente haya determinado que ofrecen un nivel adecuado de protección.
+* El uso de mecanismos de transferencia aprobados, como las Cláusulas Contractuales Tipo adoptadas por la URCDP o la Comisión Europea.
+
+## 13. Privacidad de Menores
+
+Nuestros Servicios no están dirigidos a personas menores de 13 años (o la edad mínima aplicable en tu jurisdicción). No recopilamos intencionadamente información personal de niños. Si descubrimos que hemos recopilado información personal de un niño sin el consentimiento paterno verificable, tomaremos medidas para eliminar esa información de nuestros servidores lo antes posible. Si eres padre o tutor y crees que tu hijo nos ha proporcionado información personal, por favor contáctanos.
+
+## 14. Actualizaciones de esta Política de Privacidad
+
+Podemos actualizar esta Política de Privacidad ocasionalmente para reflejar cambios en nuestras prácticas o por otras razones operativas, legales o regulatorias. Si realizamos cambios materiales, te notificaremos publicando la política actualizada en la Aplicación o por otros medios apropiados antes de que los cambios entren en vigor. Te recomendamos revisar esta Política periódicamente.
+
+## 15. Contacto y Reclamaciones
+
+Si tienes alguna pregunta, comentario o inquietud sobre esta Política de Privacidad o nuestras prácticas de datos, o si deseas ejercer tus derechos de privacidad, por favor contáctanos en:
+
+**TALE SAS**
+Av. Ing. Ponce 1326, Montevideo, Uruguay
+Correo Electrónico: **soporte@tale.uy**
+
+**Usuarios en Uruguay:** Tienen derecho a presentar una reclamación ante la autoridad de control local, la Unidad Reguladora y de Control de Datos Personales (URCDP), si consideran que el tratamiento de sus datos personales infringe la Ley N° 18.331. Puede encontrar más información en el sitio web de la URCDP (www.datospersonales.gub.uy).
